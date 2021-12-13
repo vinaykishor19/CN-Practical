@@ -18,6 +18,6 @@
     A cyclic redundancy check (CRC) is an error-detecting code commonly used in digital networks and storage devices to detect accidental changes to raw data. ... On retrieval, the calculation is repeated and, in the event the check values do not match, corrective action can be taken against data corruption.
   </h4>
   <h4>Output(Practical_2.cpp):</h4>
-  <img src="https://github.com/MKaif07/CN-Practical/blob/main/Practical_2.jpg" alt="Practical_2_output">
+  <img src="https://github.com/vinaykishor19/CN-Practical/blob/main/CN-Practical%20Question%202%20Output.png" alt="Practical_2_output">
 </p>
 </div>
