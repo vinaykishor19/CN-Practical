@@ -6,7 +6,7 @@
   <h4>
     Go Back and Sliding uses the principle of protocol pipelining in which the multiple frames can be sent before         receiving the acknowledgment of the first frame. If we have five frames and the concept is Go-Back-3, which means      that    the three frames can be sent, i.e., frame no 1, frame no 2, frame no 3 can be sent before expecting the        acknowledgment of frame no 1.
   </h4>
-  <h4>Output(Practical_1.cpp):</h4>
+  <h4>Output(Practical 1.cpp):</h4>
   <img src="https://github.com/vinaykishor19/CN-Practical/blob/main/CN-Practical%20Question%201%20Output.png" alt="Practical_1_output">
 </p>
 </div>
@@ -17,7 +17,7 @@
   <h4>
     A cyclic redundancy check (CRC) is an error-detecting code commonly used in digital networks and storage devices to detect accidental changes to raw data. ... On retrieval, the calculation is repeated and, in the event the check values do not match, corrective action can be taken against data corruption.
   </h4>
-  <h4>Output(Practical_2.cpp):</h4>
+  <h4>Output(Practical 2.cpp):</h4>
   <img src="https://github.com/vinaykishor19/CN-Practical/blob/main/CN-Practical%20Question%202%20Output.png" alt="Practical_2_output">
 </p>
 </div>
